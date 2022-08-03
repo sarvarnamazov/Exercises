@@ -1,2 +1,2 @@
 # Exercises
-This repo contains Javascript solutions to the exercises from the other programming languages
+This repo contains Javascript solutions to the diverse problem solving exercises
